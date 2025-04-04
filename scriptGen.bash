@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-echo "--------LaunchScriptGen--------"
+echo -e "--------LaunchScriptGen--------\n"
 read -p "Enter path to executable: " executable
 read -p "Application name: " appname
 read -p "Enter launch script name: " name
